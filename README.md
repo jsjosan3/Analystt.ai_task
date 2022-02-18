@@ -1,5 +1,5 @@
-# Analystt.ai_task
-#### Task Info
+
+#### Project info
 * creating a simple python app to manage the rental of bikes and scooters for a small start-up. The app will be used by the employees of the startup to manage their vehicles and rentals. You can complete this task either by using some web frameworks like (Django or FastAPI) OR Class-Object
 * Following vehicles, are available for rental. 
 
